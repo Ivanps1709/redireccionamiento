@@ -1,5 +1,5 @@
 # redireccionamiento
-##enunciado:
+Enunciado:
 genera un archivo que se llame informe.txt que contenga la siguente informacion:
 la fecha del sistema formateada 
 el espacio en disco (df -h)
